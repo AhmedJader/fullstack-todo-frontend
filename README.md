@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the frontend for the [Frontend Project](https://ahmedjaderfullstack-todoapp.netlify.app). 
+This is the frontend for the [FullStack Project](https://ahmedjaderfullstack-todoapp.netlify.app). 
 
 - This is a MERN Full Stack Web App designed for simply adding, updating, removing your objectives
 - This is a two part repository having the Front-End hosted on Netlify, and the Back-End hosted on Render
